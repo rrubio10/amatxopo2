@@ -1,0 +1,10 @@
+REEMPLAZO COMPLETO DE AMATXOPO
+
+1) Entra en: https://github.com/rrubio10/amatxopo
+2) Borra los archivos antiguos de la oposición anterior, en especial los antiguos questions-data*.js.
+3) Sube TODOS los archivos de esta carpeta a la raíz del repositorio.
+4) Comprueba en Settings > Pages que se publica desde main / (root).
+5) Abre: https://rrubio10.github.io/amatxopo/
+6) Si ves una versión anterior, haz una recarga fuerte o borra los datos del sitio una vez. La nueva app usa una caché y un localStorage distintos.
+
+La nueva versión contiene únicamente el banco C1 de Gipuzkoa 2026: 256 preguntas, español/euskera y plantilla oficial del Cuestionario A. Incluye test aleatorio, por tema, falladas, estadísticas y simulacro de 100 preguntas / 110 minutos como en la app anterior.
